@@ -1,2 +1,4 @@
+➜  devops git:(main) docker images        
 REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+➜  devops git:(main) docker ps -a
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
